@@ -1,0 +1,9 @@
+<?xml version ="1.0" encoding = "utf-8"?>
+<selector xmlns:xmlxs= "http://schemas.android.com/apk/res/android">
+    <item
+        xmlxs:drawable="@drawable/ic_tab_2"
+        xmlxs:state_selected="true"/>
+    <item
+        xmlxs:drawable="@drawable/ic_tab_2_wh"/>
+
+</selector>
